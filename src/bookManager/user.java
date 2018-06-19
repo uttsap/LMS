@@ -14,7 +14,7 @@ public class user {
 		PresentIndex += 1;
 
 	}
-	
+
 	public int getIndex() {
 		return index;
 	}
